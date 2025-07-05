@@ -1,0 +1,1440 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gundarpongi Gad",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 226839292,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.2857551,
+            30.6914379
+          ],
+          [
+            79.284811,
+            30.6907736
+          ],
+          [
+            79.2838239,
+            30.6885224
+          ],
+          [
+            79.2816138,
+            30.6869355
+          ],
+          [
+            79.2785883,
+            30.685939
+          ],
+          [
+            79.2755198,
+            30.6852193
+          ],
+          [
+            79.2710566,
+            30.6838722
+          ],
+          [
+            79.2679024,
+            30.6847395
+          ],
+          [
+            79.2644187,
+            30.6846426
+          ],
+          [
+            79.2551984,
+            30.6815687
+          ],
+          [
+            79.2408321,
+            30.6788513
+          ],
+          [
+            79.2393422,
+            30.6779577
+          ],
+          [
+            79.2373037,
+            30.6781607
+          ],
+          [
+            79.2361987,
+            30.6779392
+          ],
+          [
+            79.2334306,
+            30.678622
+          ],
+          [
+            79.2327332,
+            30.6781884
+          ],
+          [
+            79.2321171,
+            30.6782103
+          ],
+          [
+            79.2312312,
+            30.6779392
+          ],
+          [
+            79.2304329,
+            30.6771785
+          ],
+          [
+            79.2296541,
+            30.6770442
+          ],
+          [
+            79.2291894,
+            30.6766616
+          ],
+          [
+            79.2268738,
+            30.6755737
+          ],
+          [
+            79.2248597,
+            30.6759186
+          ],
+          [
+            79.2239034,
+            30.6757246
+          ],
+          [
+            79.2232597,
+            30.6752171
+          ],
+          [
+            79.2226589,
+            30.6751894
+          ],
+          [
+            79.2223716,
+            30.6753965
+          ],
+          [
+            79.2219138,
+            30.6753947
+          ],
+          [
+            79.2208886,
+            30.6750418
+          ],
+          [
+            79.2202234,
+            30.6744328
+          ],
+          [
+            79.2185719,
+            30.6744131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 53m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066051955,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.434752,
+            32.0411131
+          ],
+          [
+            77.4347305,
+            32.0407675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 10m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066051979,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2464126,
+            32.0985949
+          ],
+          [
+            77.2463214,
+            32.0983904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 100m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066051908,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5995898,
+            31.9744535
+          ],
+          [
+            77.5994825,
+            31.9740986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 60m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066298104,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.4781716,
+            31.7846364
+          ],
+          [
+            77.4781823,
+            31.784983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 98m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066005476,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2473192,
+            32.1873173
+          ],
+          [
+            77.2469002,
+            32.1874662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 56m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066005486,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.244379,
+            32.1843222
+          ],
+          [
+            77.2442497,
+            32.1845257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 45m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066005480,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.3423,
+            32.1837639
+          ],
+          [
+            77.3419245,
+            32.1837548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 95m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066005487,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.3402814,
+            32.186091
+          ],
+          [
+            77.3402591,
+            32.1860052
+          ],
+          [
+            77.3402309,
+            32.185928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 150m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066005478,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1728611,
+            32.3758796
+          ],
+          [
+            77.1725124,
+            32.3755624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 75m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066005488,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2345662,
+            32.3450018
+          ],
+          [
+            77.233951,
+            32.3455011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 45m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066005482,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2060722,
+            32.3705878
+          ],
+          [
+            77.20609,
+            32.3700734
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 23m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066051929,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.3159408,
+            32.0456239
+          ],
+          [
+            77.3159784,
+            32.0454102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 40m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066010186,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2716093,
+            32.0529988
+          ],
+          [
+            77.2712874,
+            32.0532489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 33m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066051931,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.311424,
+            32.0455875
+          ],
+          [
+            77.3112845,
+            32.0445326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 33m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066051932,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.3115206,
+            32.045924
+          ],
+          [
+            77.311424,
+            32.0455875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 36m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066051934,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.3116815,
+            32.0425227
+          ],
+          [
+            77.3118746,
+            32.0422681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 55m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066010190,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2796076,
+            32.0675788
+          ],
+          [
+            77.2791839,
+            32.0677924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 29m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066010208,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.3099059,
+            32.1204781
+          ],
+          [
+            77.3103348,
+            32.1200469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 72m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066010192,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2871447,
+            32.0847926
+          ],
+          [
+            77.2868603,
+            32.0851244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 74m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066005526,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.0800803,
+            32.3633869
+          ],
+          [
+            77.0802829,
+            32.3631805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 575544012,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.4842957,
+            32.0024049
+          ],
+          [
+            77.4842975,
+            32.002347
+          ],
+          [
+            77.4843027,
+            32.0022831
+          ],
+          [
+            77.484294,
+            32.0021821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 23m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066051958,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.449547,
+            32.0122063
+          ],
+          [
+            77.4496114,
+            32.0119242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 575544014,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.4816797,
+            32.0034646
+          ],
+          [
+            77.4816639,
+            32.0034066
+          ],
+          [
+            77.4816516,
+            32.0033487
+          ],
+          [
+            77.4816376,
+            32.003267
+          ],
+          [
+            77.4816078,
+            32.0031749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 100m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066010180,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2205722,
+            32.0207938
+          ],
+          [
+            77.2209799,
+            32.0204208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 105m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066010185,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2233939,
+            32.0470062
+          ],
+          [
+            77.2236085,
+            32.0466606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls 70m",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1066010173,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1879888,
+            31.977962
+          ],
+          [
+            77.1882355,
+            31.977789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandaje Abbi",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 404535983,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.414973,
+            13.1059093
+          ],
+          [
+            75.414947,
+            13.1057077
+          ],
+          [
+            75.4148993,
+            13.10565
+          ],
+          [
+            75.4146465,
+            13.105344
+          ],
+          [
+            75.4145243,
+            13.105186
+          ],
+          [
+            75.4144261,
+            13.104968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tevankarai Waterfall",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": "cliff",
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": "தேவன்கரை நீர்வீழ்ச்சி",
+        "osm_id": 790232230,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5203493,
+            10.3167638
+          ],
+          [
+            77.5202367,
+            10.3166794
+          ],
+          [
+            77.5201374,
+            10.3166002
+          ],
+          [
+            77.5200811,
+            10.3165264
+          ],
+          [
+            77.5200087,
+            10.3164393
+          ],
+          [
+            77.5199389,
+            10.3163654
+          ],
+          [
+            77.5198545,
+            10.316335
+          ],
+          [
+            77.5198276,
+            10.3163865
+          ],
+          [
+            77.5198464,
+            10.3164591
+          ],
+          [
+            77.5199001,
+            10.3165303
+          ],
+          [
+            77.5199503,
+            10.316587
+          ],
+          [
+            77.5199899,
+            10.3166451
+          ],
+          [
+            77.5200315,
+            10.3167058
+          ],
+          [
+            77.5200932,
+            10.3167876
+          ],
+          [
+            77.5201562,
+            10.3168628
+          ],
+          [
+            77.5201817,
+            10.3168971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1158169628,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.6870208,
+            33.9053472
+          ],
+          [
+            76.6865151,
+            33.905061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Second Waterfall",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": "cliff",
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": "இரண்டாம் நீர்வீழ்ச்சி",
+        "osm_id": 790650279,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5231737,
+            10.3224083
+          ],
+          [
+            77.5232273,
+            10.3223476
+          ],
+          [
+            77.5234178,
+            10.3221761
+          ],
+          [
+            77.5234982,
+            10.3220679
+          ],
+          [
+            77.5237316,
+            10.3219755
+          ],
+          [
+            77.5237986,
+            10.3219359
+          ],
+          [
+            77.5238416,
+            10.3218172
+          ],
+          [
+            77.5238684,
+            10.3217143
+          ],
+          [
+            77.5240615,
+            10.3217459
+          ],
+          [
+            77.5242761,
+            10.3216509
+          ],
+          [
+            77.5243498,
+            10.3216707
+          ],
+          [
+            77.5241688,
+            10.321928
+          ],
+          [
+            77.5239918,
+            10.3221048
+          ],
+          [
+            77.5238781,
+            10.3222328
+          ],
+          [
+            77.5238121,
+            10.3223555
+          ],
+          [
+            77.5236002,
+            10.3225376
+          ],
+          [
+            77.5234251,
+            10.3226656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skambha Waterfall",
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": "cliff",
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 790650278,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5231093,
+            10.2916199
+          ],
+          [
+            77.5230852,
+            10.2915038
+          ],
+          [
+            77.5230423,
+            10.29129
+          ],
+          [
+            77.5230396,
+            10.2911475
+          ],
+          [
+            77.523061,
+            10.2909945
+          ],
+          [
+            77.5232019,
+            10.2909747
+          ],
+          [
+            77.5232622,
+            10.2909654
+          ],
+          [
+            77.5233105,
+            10.2911106
+          ],
+          [
+            77.5233319,
+            10.2912821
+          ],
+          [
+            77.5233172,
+            10.2915777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "name:en": null,
+        "waterway": "waterfall",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": "Maxar",
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 750942392,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.1750068,
+            10.236992
+          ],
+          [
+            78.1750926,
+            10.2369894
+          ],
+          [
+            78.1752804,
+            10.2369788
+          ]
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "waterway_type": "waterfall",
+    "feature_count": 33,
+    "source_file": "rivers.geojson"
+  }
+}

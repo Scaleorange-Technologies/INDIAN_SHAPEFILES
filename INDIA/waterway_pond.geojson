@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "name:en": null,
+        "waterway": "pond",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1269129473,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.2198157,
+            23.823051
+          ],
+          [
+            91.2197942,
+            23.8230572
+          ],
+          [
+            91.2197848,
+            23.8230688
+          ],
+          [
+            91.2197848,
+            23.8230872
+          ],
+          [
+            91.2197835,
+            23.8231161
+          ],
+          [
+            91.2197835,
+            23.8231332
+          ],
+          [
+            91.2197902,
+            23.823159
+          ],
+          [
+            91.2197996,
+            23.8231756
+          ],
+          [
+            91.2198029,
+            23.8231841
+          ],
+          [
+            91.2198164,
+            23.8231897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "name:en": null,
+        "waterway": "pond",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1269129474,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.2198164,
+            23.8231897
+          ],
+          [
+            91.2198754,
+            23.8231878
+          ],
+          [
+            91.2199216,
+            23.8231866
+          ],
+          [
+            91.2199518,
+            23.8231835
+          ],
+          [
+            91.2199914,
+            23.8231786
+          ],
+          [
+            91.220039,
+            23.8231713
+          ],
+          [
+            91.2200651,
+            23.8231547
+          ],
+          [
+            91.2200779,
+            23.8231357
+          ],
+          [
+            91.2200839,
+            23.8231105
+          ],
+          [
+            91.2200859,
+            23.8230835
+          ],
+          [
+            91.2200819,
+            23.8230596
+          ],
+          [
+            91.2200551,
+            23.8230516
+          ],
+          [
+            91.2200182,
+            23.8230523
+          ],
+          [
+            91.2199719,
+            23.8230541
+          ],
+          [
+            91.219933,
+            23.823059
+          ],
+          [
+            91.2199008,
+            23.8230608
+          ],
+          [
+            91.2198601,
+            23.8230518
+          ],
+          [
+            91.2198157,
+            23.823051
+          ]
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "waterway_type": "pond",
+    "feature_count": 2,
+    "source_file": "rivers.geojson"
+  }
+}

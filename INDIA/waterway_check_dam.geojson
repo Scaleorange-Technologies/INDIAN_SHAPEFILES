@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koyamarakkad Check Dam",
+        "name:en": null,
+        "waterway": "check_dam",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1043817019,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.7575867,
+            10.7967013
+          ],
+          [
+            76.7576686,
+            10.796148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "name:en": null,
+        "waterway": "check_dam",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1007651947,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.4721279,
+            18.7514503
+          ],
+          [
+            73.4720875,
+            18.7511253
+          ],
+          [
+            73.472042,
+            18.7507595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "name:en": null,
+        "waterway": "check_dam",
+        "covered": null,
+        "width": null,
+        "depth": null,
+        "layer": null,
+        "blockage": null,
+        "tunnel": null,
+        "natural": null,
+        "water": null,
+        "source": null,
+        "name:hi": null,
+        "name:ta": null,
+        "osm_id": 1007651946,
+        "osm_type": "ways_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.4831723,
+            18.7532485
+          ],
+          [
+            73.4831482,
+            18.7529581
+          ],
+          [
+            73.4831267,
+            18.7526974
+          ]
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "waterway_type": "check_dam",
+    "feature_count": 3,
+    "source_file": "rivers.geojson"
+  }
+}
